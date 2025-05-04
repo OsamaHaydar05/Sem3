@@ -35,7 +35,9 @@ The tests are in the `test` folder and test important parts like `Controller`, `
 
 1. Clone this repo:  
    "git clone https://github.com/OsamaHaydar05/Sem3.git"
+   or
+   Open "Project Sem3.code-workspace"
 
-2. Open the project in VS code or another program
+3. Open the project in VS code or another program
 
-3. Run the `Main` class (inside `startup`) with Java and to try it
+4. Run the `Main` class (inside `startup`) with Java and to try it
