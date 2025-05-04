@@ -36,7 +36,8 @@ public class Controller {
     }
 
     public Sale getCurrentSale() {
-    return this.sale;
+    return this.currentSale;
 }
+
 
 } 
