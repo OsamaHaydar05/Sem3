@@ -34,4 +34,9 @@ public class Controller {
     public double getTotalVAT() {
         return currentSale.getTotalVAT();
     }
+
+    public Sale getCurrentSale() {
+    return this.sale;
+}
+
 } 
