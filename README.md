@@ -1,7 +1,7 @@
 # Seminar 3 – Point of Sale System (IV1350)
 
 This is a simple checkout system (POS) made in Java for the course IV1350 at KTH during spring 2025.  
-The code follows object-oriented programming with things like high cohesion, low coupling, and layers (like MVC).
+
 
 ## What the program does
 
