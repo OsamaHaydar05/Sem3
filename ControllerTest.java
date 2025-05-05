@@ -21,8 +21,8 @@ public class ControllerTest {
 
         controller.startSale();
 
-        // Antag att Controller har en metod för att kontrollera om sale är initierad
-        Sale sale = controller.getCurrentSale();  // Om denna inte finns, skapa en get-metod för teständamål
+        
+        Sale sale = controller.getCurrentSale();  
 
         assertNotNull(sale, "Controller should create a Sale object when startSale is called.");
     }
